@@ -5,7 +5,7 @@ A neural network built from scratch (hopefully) only using NumPy
 TODO:
 - Backpropagation
 - Gradient Descent
-- Brainfuck
+- Rewrite in Brainfuck
 
 ## Description
 
@@ -15,7 +15,7 @@ TODO:
 
 ### Requirements
 
-* Python 3.12<=
+* Python 3
 * `pip install -r requirements.txt`
 
 ### Usage
@@ -34,9 +34,12 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Credits
 
-* CS50 AI (again again) for introducing me to artificial neural networks (https://cs50.harvard.edu/ai/notes/5/)
-* 3Blue1Brown's neural networks series, really helped me understand some of the madness (https://www.3blue1brown.com/?topic=neural-networks)
-- Probably more
+* CS50 AI (again) for introducing me to neural networks (https://cs50.harvard.edu/ai/notes/5/)
+* 3Blue1Brown's neural networks series really helped me (https://www.3blue1brown.com/?topic=neural-networks)
+* Linear Algebra
+* Calculus
+
+- More to come loooooolll
 
 ---
 
