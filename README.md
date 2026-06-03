@@ -21,7 +21,7 @@ TODO:
 ### Usage
 
 ```
-python neural_network.py
+usage: python neural_network.py <amount_of_hidden_layers> <amount_of_output_values> <neurons_per_hidden_layer> <inputs_values>
 ```
 
 ### How It Works
@@ -30,17 +30,13 @@ python neural_network.py
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Credits
 
 * CS50 AI (again) for introducing me to neural networks (https://cs50.harvard.edu/ai/notes/5/)
 * 3Blue1Brown's neural networks series really helped me (https://www.3blue1brown.com/?topic=neural-networks)
-* Linear Algebra
-* Calculus
-
-- More to come loooooolll
 
 ---
 
-**Oooo yes yes. By quandela**
+**quandela**
