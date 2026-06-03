@@ -65,7 +65,7 @@ class NeuralNetwork:
 
 def main():
     if len(sys.argv) != 5:
-        print("Usage: python neural_network.py <amount_of_hidden_layers> <amount_of_output_values> <neurons_per_hidden_layer> <inputs=x,y,z>")
+        print("usage: python neural_network.py <amount_of_hidden_layers> <amount_of_output_values> <neurons_per_hidden_layer> <inputs>")
         return
 
     inputs = [[float(item)] for item in sys.argv[4].split(",")]
